@@ -20,5 +20,5 @@ docker build . -t my-app
 docker run -p 8080:8080 my-app
 ```
 
-##Image
+## Image
 ![FancyIrishPicture](https://github.com/fwoodmann/github-actions-exercise/blob/ReadmeChanges/Picture_Ireland.jpg)
